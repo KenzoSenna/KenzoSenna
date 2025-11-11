@@ -1,5 +1,8 @@
 # Hi 👋, I'm Kenzo de Oliveira Senna
 
+<!-- <img src="https://pa1.aminoapps.com/6867/7ca0d901f4f32a6dba547489b52245a5edc48034r1-540-304_hq.gif" alt="html5" width="800" height="450"/>  -->
+<img src="https://i.imgur.com/C1UyqVX.gif" alt="html5" width="800" height="450"/> 
+
 ### A passionate Python developer
 
 - 🔭 I'm currently working on **Projeto Integrador - Senac**
@@ -14,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/KenzoSenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KenzoSenna" height="30" width="40" /></a>
+<!-- <a href="https://github.com/KenzoSenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KenzoSenna" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/kenzo-senna-12231626b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kenzo Senna" height="30" width="40" /></a>
 </p>
 
